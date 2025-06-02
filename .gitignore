@@ -1,0 +1,5 @@
+.venv
+.vscode
+avito_test.tsv
+avito_train.tsv
+avito.csv
